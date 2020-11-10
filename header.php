@@ -1,58 +1,16 @@
 <header>
-    <div class="logo">
-        <a href="index" target="_top">
-            <img src="img/swiss-baumanagement-logo.svg" alt="swiss baumanagement logo" width="265" height="auto"/>
-        </a>
-    </div>    
-    <nav>
-		<div id="navburger">
-            <span></span>
-            <span class="short"></span>
-            <span class="short"></span>
-            <span class="short"></span>
-            <span></span>
-            <div class="navburgeron">
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div class="short"></div>
-                <div></div>
+    <h1><a href="index">Heidisatelier</a></h1>
+    <h2 id="kontakt">Kontakt</h2>
+        <div class="kontakt">
+            <h1>Heidisatelier</h1>
+            <h2 id="kontakt-closer">×</h2>
+            <img src="img/heidisatelier-heidi-schwizer-kontakt.jpg" alt="heidisatelier-kontakt" >
+            <div>
+                <a href="tel:0763418041">+41 76 341 80 41</a><br>
+                <a href="mailto:info@heidisatelier.ch" target="_top">info@heidisatelier.ch</a>
             </div>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
         </div>
-        
-        <div class="nav">
-            <ul class="in">
-                <li><a href="wir">Wir</a></li>
-                <li><a href="projekte">Projekte</a></li>
-                <li><a href="leistungen">Leistungen</a></li>
-            </ul>
-            <div class="navcontact">
-                <a href="tel:0712801827">+41 71 280 18 27</a><br>
-                <a href="mailto:info@swiss-baumanagement.ch" target="_top">info@swiss-baumanagement.ch</a>
-            </div>
-            
-        </div>
-        
-    </nav>
 </header>
         
 
