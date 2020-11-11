@@ -8,7 +8,7 @@
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-
+<!--
 <script>
     var gaProperty = '****************';
     var disableStr = 'ga-disable-' + gaProperty;
@@ -35,3 +35,4 @@ ga('create', '****************', 'auto');
 ga('set', 'anonymizeIp', true);
 ga('send', 'pageview');
 </script>
+-->
