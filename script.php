@@ -1,7 +1,7 @@
-<div id="optoutbanner99">
+<!--<div id="optoutbanner99">
     <p>Wir verwenden Cookies für ein besseres Online-Erlebnis. </p>
     <a id="acceptga" onclick="accept()">akzeptieren</a>
-</div>
+</div>-->
 
 <script src="js/vendor/modernizr-3.6.0.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
