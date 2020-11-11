@@ -58,6 +58,5 @@
         </a>
     </section>
       
-    <?php include 'script.php'; ?>
 </body>
 </html>
