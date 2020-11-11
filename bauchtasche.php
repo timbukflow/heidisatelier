@@ -13,8 +13,29 @@
   
 <body>
     <?php include 'header.php'; ?>
-     
-    <h1>noch im aufbau</h1>
+    <section class="pcontainer">
+        <h1>Bauchtasche</h1>
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+        <div class="pimgcontainer">
+            <img class="small" src="img/heidisatelier-bauchtasche-01.jpg">
+            <img class="small" src="img/heidisatelier-bauchtasche-02.jpg">
+            <img class="big" src="img/heidisatelier-bauchtasche-03.jpg">
+        </div>
+        <ul>
+            <li class="first">Technische Daten:</li>
+            <li>Masse: 15x 20cm</li>
+            <li>Innenmaterial: Abwaschbar</li>
+            <li>Reisverschluss: Riri</li>
+            <li>Umfang: verstellbar</li>
+            <li>Material: Veganes Leder</li>
+        </ul>
+    </section>
+
+
+
+
+
+    
       
     <?php include 'script.php'; ?>
 </body>

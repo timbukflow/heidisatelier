@@ -57,6 +57,28 @@
             </div>
         </a>
     </section>
+    <section class="container">
+        <a href="utensilo" >
+            <h1>Utensilo</h1>
+            <div class="fadeholder" id="fade3">
+                <div class="slide" style="display:block;">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-utensilo-01.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-utensilo-02.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-utensilo-03.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-utensilo-04.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-utensilo-05.jpg');"></div>
+                </div>
+            </div>
+        </a>
+    </section>
       
     <?php include 'script.php'; ?>
 </body>

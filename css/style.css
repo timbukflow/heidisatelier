@@ -13,7 +13,7 @@ body {
     padding: 0px;
 }
     
-h1, h2, p, a {
+h1, h2, p, a, ul, li {
     color: #000;
     font-weight: 400;
     font-style: normal;
@@ -129,6 +129,40 @@ header h1 {
 
 }
 
+/*---------------------------------- 
+    produtke
+-----------------------------------*/
+
+.pcontainer {
+    padding: 200px;
+    background-color: #fff;
+    width: 100%;
+    display: inline-block;
+}
+
+.pcontainer img.small {
+    padding-right: 20px;
+    width: 50%;
+    float: left;
+    display: inline-block;
+}
+
+.pcontainer img.big {
+    padding-top: 20px;
+    padding-right: 20px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+li.first {
+    font-weight: bold;
+}
 
 
 /*---------------------------------- 
