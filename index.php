@@ -16,18 +16,49 @@
      <section class="container">
         <a href="bauchtasche" >
             <h1>Bauchtasche</h1>
-            <div class="fadeholder" id="fade4">
+            <div class="fadeholder" id="fade1">
                 <div class="slide" style="display:block;">
                     <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-01.jpg');"></div>
                 </div>
                 <div class="slide">
                     <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-02.jpg');"></div>
-                </div>  
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-03.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-04.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-05.jpg');"></div>
+                </div>
             </div>
         </a>
     </section>
     <section class="container">
-        <div class="bauchtascheimg"></div>
+        <a href="bauchtasche-gross" >
+            <h1>Bauchtasche Gross</h1>
+            <div class="fadeholder" id="fade2">
+                <div class="slide" style="display:block;">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-01.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-02.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-03.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-04.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-05.jpg');"></div>
+                </div>
+                <div class="slide">
+                    <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-06.jpg');"></div>
+                </div>
+            </div>
+        </a>
     </section>
       
     <?php include 'script.php'; ?>
