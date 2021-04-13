@@ -20,7 +20,7 @@
 <meta property="og:title" content="Heidisatelier">
 <meta property="og:site_name" content="Heidisatelier">
 <meta property="og:type" content="Website">
-<meta property="og:description" content="....">
+<meta property="og:description" content="Handmade aus der Ostschweiz, Bauchtaschen, Utensilo und Necessaire">
 <meta property="og:url" content="https://www.heidisatelier.ch">
 <meta property="og:image" content="https://www.heidisatelier.ch/img/heidisatelier-share-img.jpg">
 <meta property="og:image:secure_url" content="https://www.heidisatelier.ch/img/heidisatelier-share-img.jpg">
@@ -30,9 +30,9 @@
 <meta property="og:image:alt" content="Heidisatelier">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Heidisatelier">
-<meta name="twitter:description" content=".......">
+<meta name="twitter:description" content="Handmade aus der Ostschweiz, Bauchtaschen, Utensilo und Necessaire">
 <meta name="twitter:image" content="https://www.heidisatelier.ch/img/heidisatelier-share-img.jpg">
-<meta name="twitter:image:alt" content="....">
+<meta name="twitter:image:alt" content="Heidisatelier - Handmade aus der Ostschweiz, Bauchtaschen, Utensilo und Necessaire">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="Heidisatelier">
@@ -47,5 +47,3 @@
 <link rel="stylesheet" href="css/reset.css">
 <link rel="stylesheet" href="css/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Baskervville&display=swap" rel="stylesheet">
-
-
