@@ -20,9 +20,6 @@
               <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-06.jpg');"></div>
             </div>
             <div class="slide">
-              <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-05.jpg');"></div>
-            </div>
-            <div class="slide">
               <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-03.jpg');"></div>
             </div>
             <div class="slide">
