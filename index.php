@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 7]>	 <html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
-<!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="de">
-<!--<![endif]-->
+<html lang="de">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
     <meta charset="utf-8">
     <title>heidisatelier</title>
@@ -28,7 +24,7 @@
             <div class="slide">
               <div class="slideimg" style="background-image:url('img/heidisatelier-bauchtasche-gross-04.jpg');"></div>
             </div>
-            </div>
+        </div>
     </section>
     <section class="container">
             <h1>Necessaire</h1>
@@ -64,7 +60,6 @@
                 </div>
             </div>
     </section>
-
     <?php include 'script.php'; ?>
 </body>
 </html>

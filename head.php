@@ -40,7 +40,7 @@
 <meta property="business:contact_data:region" content="9402">
 <meta property="business:contact_data:postal_code" content="9402">
 <meta property="business:contact_data:country_name" content="Switzerland">
-<meta name="google-site-verification" content="................................">
+
 <link rel="stylesheet" href="css/reset.css">
 <link rel="stylesheet" href="css/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Baskervville&display=swap" rel="stylesheet">
